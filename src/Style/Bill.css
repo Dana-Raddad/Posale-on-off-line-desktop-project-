@@ -1,0 +1,222 @@
+/*//////////////////*/
+h6#title {
+  /*margin-right: 45px;*/
+  /*padding-left: 5px;*/
+  direction: rtl;
+}
+div.card {
+  margin-right: 8px;
+  margin-left: 8px;
+}
+.p-buttonset .p-button {
+  margin-right: 5px;
+}
+.Box_4_container input {
+  width: 18%;
+  margin-left: 30px;
+  height: 45px;
+  direction: rtl;
+  margin-left: 50px;
+  height: 45px;
+  direction: rtl;
+  width: 50px;
+  padding: 5px;
+}
+span#stacked {
+  /* width: 10%; */
+  /* margin-right: 20px; */
+  margin-left: 58px;
+  position: relative;
+  padding-top: 8.5px;
+  /* width: 11%; */
+}
+.Box_4_container h6 {
+  padding-left: 20px;
+  /* padding-right: 5px;*/
+  margin-top: 17px;
+  margin-bottom: 30px;
+}
+.Box_3_container {
+  margin-top: 5px;
+  padding-left: 5px;
+  border-bottom: solid;
+  height: 50px;
+  border-width: thin;
+  border-color: #e6e6e6;
+}
+.Box_4_container {
+  margin-bottom: 5px;
+  margin-top: 5px;
+  padding-left: 8px;
+  height: 310px;
+  overflow-x: hidden;
+  overflow: auto;
+}
+div#line1,
+#line2,
+#line3 {
+  border: solid;
+  border-width: thin;
+  border-color: #e6e6e6;
+}
+#line1 h5 {
+  margin-left: 50px;
+}
+#line2 h5 {
+  margin-left: 50px;
+}
+#line3 h5 {
+  margin-left: 50px;
+}
+#line1 h6 {
+  margin-left: 80px;
+}
+#line2 h6 {
+  margin-left: 50px;
+}
+#line3 h6 {
+  margin-left: 80px;
+}
+.p-inputnumber-buttons-stacked .p-inputnumber-button-group {
+  height: 41px;
+}
+.p-autocomplete {
+  width: 80%;
+}
+.p-checkbox {
+  margin-right: 5px;
+}
+div#line1 {
+  border-bottom: hidden;
+}
+div#line2 {
+  border-bottom: hidden;
+}
+input.p-inputtext.p-component.p-autocomplete-input.p-autocomplete-dd-input {
+  background-position: 20%;
+  margin-bottom: -5px;
+}
+button.p-button.p-component.p-autocomplete-dropdown.p-button-icon-only {
+  position: absolute;
+  left: 0;
+  height: 45px;
+  background-color: #fff;
+  border-top-color: #49494b34;
+  border-bottom-color: #49494b34;
+  border-left-color: #49494b34;
+  border-right-color: #fff;
+}
+#buCan {
+  width: 9vw !important;
+  border-radius: 4px 0px 0px 4px !important;
+  /* margin-right: 12px !important; */
+  margin-left: 20px !important;
+  background-position: left center !important;
+  background: #fd20208c !important;
+  height: 50% !important;
+}
+#buDeb {
+  width: 9vw !important;
+  /* border-radius: 4px !important; */
+  background-position: left center !important;
+  background-color: rgb(238 225 44 / 60%) !important;
+  height: 50% !important;
+}
+/* span.p-inputnumber-button-group {
+  position: absolute;
+} */
+#buPay {
+  width: 9vw !important;
+  border-radius: 0px 4px 4px 0px !important;
+  margin-right: 12px !important;
+  /* margin-left: 12px !important; */
+  background-position: left center !important;
+  background-color: rgb(1 117 20 / 45%) !important;
+  height: 50% !important;
+}
+
+input.p-inputtext.p-component.p-autocomplete-input.p-autocomplete-dd-input {
+  margin-bottom: -5px;
+}
+.p-inputnumber-buttons-stacked .p-button.p-inputnumber-button-down {
+  width: 20px;
+}
+.p-inputnumber-buttons-stacked .p-button.p-inputnumber-button-up {
+  width: 20px;
+}
+.button_color {
+  margin-top: 8px;
+  background-color: #fd20208c;
+}
+span.p-inputnumber-button-group {
+  position: absolute;
+  top: 12%;
+  left: -10%;
+}
+.p-inputnumber-buttons-stacked .p-inputnumber-input {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.button_color {
+  margin-top: 8px;
+  background-color: #fd20208c;
+}
+
+.p-inputnumber-buttons-stacked .p-button.p-inputnumber-button-down {
+  margin-left: 40px;
+}
+.p-inputnumber-buttons-stacked .p-button.p-inputnumber-button-up {
+  margin-left: 40px;
+}
+.Box_4_container input {
+  width: 50px;
+  padding: 5px;
+  margin-left: 50px;
+  height: 41px;
+  direction: rtl;
+}
+table {
+  font-family: "Almarai", sans-serif;
+  border-collapse: collapse;
+  width: 32vw;
+  margin-top: 2vh;
+  /*background-color: #fffaa4;*/
+  background-color: #7ab1b918;
+
+  /* text-align: right; */
+  /* direction: rtl; */
+}
+
+.footer {
+  width: 32vw;
+  height: 12vh;
+  padding-left: 15px;
+}
+td {
+  text-align: right !important;
+  font-weight: 600;
+  line-height: 1.2;
+  font-family: "Almarai", sans-serif;
+  border: 1px solid #dddddd;
+  padding: 8px;
+  direction: rtl;
+}
+th {
+  text-align: right !important;
+  font-weight: 600;
+  line-height: 1.2;
+  font-family: "Almarai", sans-serif;
+  padding: 8px;
+  direction: rtl;
+}
+.p-checkbox.p-component.p-checkbox-checked {
+  margin-left: 4px;
+}
+textarea.p-inputtextarea.p-inputtext.p-component {
+  resize: none;
+}
+.button_color:hover {
+  background-color: rgb(202, 51, 51);
+  cursor: pointer;
+}
